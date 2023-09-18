@@ -26,9 +26,19 @@ Smallsh is a simple shell implementation in C that aims to provide a subset of f
 * SIGTSTP (Ctrl+Z): Toggles the foreground-only mode. In this mode, the shell will prevent background processes from being run in the background.
 
 ## How to Use
-**1) Compilation:** Compile the Smallsh program using your preferred C compiler (e.g., gcc -o smallsh smallsh.c).
-
-**2) Running Smallsh:** Run the compiled smallsh executable to start the shell.
+**1) Compilation:** To compile Smallsh, you can use the provided Makefile. Open a terminal and navigate to the directory containing the Makefile and the smallsh.c source code, and then run the following command:
+```
+make
+```
+This will compile the smallsh program. If you want to enable debugging information, you can set the DEBUG variable as follows:
+```
+make DEBUG=1
+```
+**2) Running Smallsh:** After compiling, you can run the Smallsh shell as follows:
+```
+./smallsh
+```
+Use the shell prompt to enter commands and take advantage of the listed features.
 
 **3) Using the Shell:** Use the shell prompt to enter commands and take advantage of the listed features.
 

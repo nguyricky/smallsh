@@ -43,3 +43,9 @@ Use the shell prompt to enter commands and take advantage of the listed features
 **3) Using the Shell:** Use the shell prompt to enter commands and take advantage of the listed features.
 
 **4) Exiting the Shell:** To exit the shell, simply type exit and press Enter.
+
+## Collaborators
+
+<a href="https://github.com/nguyricky/smallsh/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=nguyricky/smallsh" />
+</a>

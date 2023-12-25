@@ -43,3 +43,7 @@ Use the shell prompt to enter commands and take advantage of the listed features
 **3) Using the Shell:** Use the shell prompt to enter commands and take advantage of the listed features.
 
 **4) Exiting the Shell:** To exit the shell, simply type exit and press Enter.
+
+## License
+
+smallsh is a [Apache Licensed](https://github.com/nguyricky/smallsh?tab=Apache-2.0-1-ov-file) software by [Ricky Nguyen](https://github.com/nguyricky)
